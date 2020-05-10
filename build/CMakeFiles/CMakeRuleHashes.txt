@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+690c120d4f34514835925e635ed635f9 test/CMakeFiles/travis_gcov_example_coverage
+5c84af92723c7706f0ae5588389090ae test/CMakeFiles/travis_gcovr_example_coverage_cobertura

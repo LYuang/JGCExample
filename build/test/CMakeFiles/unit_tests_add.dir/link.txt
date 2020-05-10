@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -O0 -fprofile-arcs -ftest-coverage  -rdynamic CMakeFiles/unit_tests_add.dir/add_numbers.cpp.o CMakeFiles/unit_tests_add.dir/unit_tests_add.cpp.o  -o unit_tests_add ../external/googlemock/gtest/libgtest.a ../external/googlemock/gtest/libgtest_main.a ../src/libtravis_gcov_example_lib.a -lpthread ../external/googlemock/gtest/libgtest.a -lpthread 

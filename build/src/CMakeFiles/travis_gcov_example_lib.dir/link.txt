@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtravis_gcov_example_lib.a  CMakeFiles/travis_gcov_example_lib.dir/add.cpp.o
+/usr/bin/ranlib libtravis_gcov_example_lib.a

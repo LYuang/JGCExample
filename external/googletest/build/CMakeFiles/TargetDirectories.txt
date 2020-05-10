@@ -1,0 +1,8 @@
+/usr/src/googletest/googletest/build/CMakeFiles/install/strip.dir
+/usr/src/googletest/googletest/build/CMakeFiles/install/local.dir
+/usr/src/googletest/googletest/build/CMakeFiles/edit_cache.dir
+/usr/src/googletest/googletest/build/CMakeFiles/gtest_main.dir
+/usr/src/googletest/googletest/build/CMakeFiles/list_install_components.dir
+/usr/src/googletest/googletest/build/CMakeFiles/gtest.dir
+/usr/src/googletest/googletest/build/CMakeFiles/rebuild_cache.dir
+/usr/src/googletest/googletest/build/CMakeFiles/install.dir

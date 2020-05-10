@@ -1,0 +1,2 @@
+# JGCExample
+jenkins + gcov + gtest
